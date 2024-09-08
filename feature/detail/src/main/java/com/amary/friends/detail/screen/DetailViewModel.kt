@@ -24,7 +24,8 @@ class DetailViewModel @Inject constructor() : ViewModel() {
             it.copy(
                 firstName = firstName,
                 lastName = lastName,
-                address = address
+                address = address,
+                avatar = friends.avatar
             )
         }
     }
