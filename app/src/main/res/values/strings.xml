@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">friends-list</string>
+    <string name="text_friend_list">Friend List</string>
+    <string name="image_icon">Image Icon</string>
+</resources>
